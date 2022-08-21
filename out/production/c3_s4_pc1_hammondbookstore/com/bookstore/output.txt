@@ -1,0 +1,7 @@
+book isbn number = 1234567890
+book title = journey
+book price = 200.0
+Author name :niit
+Author Pen name: Wave33
+
+Process finished with exit code 0
