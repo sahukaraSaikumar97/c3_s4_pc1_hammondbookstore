@@ -8,9 +8,13 @@ public class BookImpl {
         book.setPrice(200);
         Author author =new Author();
         author.setAuthorName("niit");
-        author.setAuthorPenName("Wave33");
+        author.setAuthorPenName("Wave39");
         book.setAuthor(author);
         book.display();
+        System.out.println("display with to string");
+        System.out.println(author);
+        System.out.println("display with to string");
+        System.out.println(book);
 
 
     }
